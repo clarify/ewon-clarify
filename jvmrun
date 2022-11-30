@@ -1,0 +1,2 @@
+#IOSERVER
+-heapsize 5M -classpath /usr/Clarify.jar -emain MainClass
